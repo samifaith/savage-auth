@@ -2,7 +2,7 @@
 
 Create an app where users can post messages to 21 Savage fan board with user authentication
 
-![21 Savage](public/21savage.png)
+![21 Savage](public/savage.png)
 
 ### Development:
 **Languages Used:** HTML, CSS, JavaScript, Node, Express, EJS template, MongoDB, User Authentication
